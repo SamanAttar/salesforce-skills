@@ -2,6 +2,10 @@
 
 A collection of reusable AI agent skills that enforce Salesforce best practices across admin configuration, Apex development, and DevOps workflows.
 
+## Philosophy
+
+These skills are intentionally concise. They are not meant to be an exhaustive reference for everything an AI agent should know about Salesforce — the models already have that knowledge. Instead, these skills are a curated set of guardrails for the things agents commonly forget, skip, or get wrong. Think of them as corrections and reminders, not tutorials.
+
 ## Compatible Tools
 
 These skills work with any AI coding agent that supports skill/instruction files:
