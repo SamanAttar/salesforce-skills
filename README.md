@@ -4,7 +4,7 @@ A collection of reusable AI agent skills that enforce Salesforce best practices 
 
 ## Philosophy
 
-These skills are intentionally concise. They are not meant to be an exhaustive reference for everything an AI agent should know about Salesforce — the models already have that knowledge. Instead, these skills are a curated set of guardrails for the things agents commonly forget, skip, or get wrong. Think of them as corrections and reminders, not tutorials.
+These skills are intentionally concise. They are not meant to be an exhaustive reference for everything an AI agent should know about Salesforce — the models already have that knowledge. Instead, these skills are a curated set of guardrails for the things agents commonly forget, skip, or get wrong. Think of them as corrections, reminders, or repetable proccess.
 
 ## Compatible Tools
 
